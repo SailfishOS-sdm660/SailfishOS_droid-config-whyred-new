@@ -1,6 +1,6 @@
 # Reference: ../droid-configs-device/droid-configs.inc
 
-%include rpm/header-cheeseburger.inc
+%include rpm/header-whyred.inc
 
 %define vendor_pretty Xiaomi
 %define device_pretty Xiaomi Redmi Note 5 Pro
