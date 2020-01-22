@@ -2,8 +2,8 @@
 
 %include rpm/header-cheeseburger.inc
 
-%define vendor_pretty OnePlus
-%define device_pretty OnePlus 5
+%define vendor_pretty Xiaomi
+%define device_pretty Xiaomi Redmi Note 5 Pro
 
 %define community_adaptation 1
 %define use_meta_package 1
