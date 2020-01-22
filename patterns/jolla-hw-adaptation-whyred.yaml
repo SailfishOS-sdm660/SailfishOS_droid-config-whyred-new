@@ -1,18 +1,18 @@
 Description: Pattern with packages for cheeseburger HW Adaptation
-Name: jolla-hw-adaptation-cheeseburger
+Name: jolla-hw-adaptation-whyred
 Requires:
-- droid-hal-cheeseburger
-- droid-hal-cheeseburger-detritus
-- droid-hal-cheeseburger-img-boot
-#- droid-hal-cheeseburger-img-recovery
-- droid-hal-cheeseburger-kernel-modules
-- droid-config-cheeseburger-sailfish
-- droid-config-cheeseburger-pulseaudio-settings
-- droid-config-cheeseburger-policy-settings
-- droid-config-cheeseburger-preinit-plugin
-- droid-config-cheeseburger-flashing
-- droid-config-cheeseburger-bluez5
-- droid-hal-version-cheeseburger
+- droid-hal-whyred
+- droid-hal-whyred-detritus
+- droid-hal-whyred-img-boot
+#- droid-hal-whyred-img-recovery
+- droid-hal-whyred-kernel-modules
+- droid-config-whyred-sailfish
+- droid-config-whyred-pulseaudio-settings
+- droid-config-whyred-policy-settings
+- droid-config-whyred-preinit-plugin
+- droid-config-whyred-flashing
+- droid-config-whyrer-bluez5
+- droid-hal-version-whyred
 
 # Hybris packages
 - libhybris-libEGL
@@ -79,4 +79,4 @@ Requires:
 - gestured
 - onyx-gesture-settings-plugin
 
-Summary: Jolla HW Adaptation cheeseburger
+Summary: Jolla HW Adaptation whyred
